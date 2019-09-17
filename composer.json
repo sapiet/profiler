@@ -1,0 +1,25 @@
+{
+  "name": "sapiet/profiler",
+  "description": "PHP duration & memory usage profiler",
+  "keywords": [
+    "PHP",
+    "duration",
+    "profiler",
+    "memory",
+    "usage"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Xavier QUIÈVRE"
+    },
+  ],
+  "require": {
+    "php": ">=7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Sapiet\\Profiler\\": "src"
+    }
+  }
+}
