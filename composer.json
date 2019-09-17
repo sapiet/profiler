@@ -12,7 +12,7 @@
   "authors": [
     {
       "name": "Xavier QUIÈVRE"
-    },
+    }
   ],
   "require": {
     "php": ">=7.2"
